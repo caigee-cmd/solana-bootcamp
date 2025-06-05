@@ -40,3 +40,14 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 test-ledger
+anchor/target
+anchor/node_modules
+anchor/.anchor
+anchor/tests/test-ledger
+anchor/.anchor
+anchor/.DS_Store
+anchor/target
+anchor/**/*.rs.bk
+anchor/node_modules
+anchor/test-ledger
+anchor/.yarn
